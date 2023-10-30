@@ -1,22 +1,18 @@
 agenda = {'nome':'Sarah', 'phone':'1234-5678', 'email':'Sarah@gmail.com', 'idade':'65'}
-"""print(agenda['idade'])
-print(agenda.keys()) #lista as chaves
-print(agenda.values()) #lista os valores"""
 
 for dicionario in agenda.keys():
     print(agenda[dicionario])
 
-
+"""print(agenda['idade'])
+print(agenda.keys()) #lista as chaves
+print(agenda.values()) #lista os valores"""
 
 """Tuplas e List
 
-Tuplas não podem ser alteradas, se forem alteradas, cria-se uma nova tupla
-são imutaveis
+*Tuplas não podem ser alteradas, se forem alteradas, cria-se uma nova tupla (elas são imutáveis).
 
 list = []
 tuplas = ()
 dicionario = {}
 
-dicionario = {'boy': 'muchacho'}
-
-dic = {'boy': 'muchacho', 'vetar': 'se opor'}"""
+dicionario = {'nome': 'Ana', 'idade': '23', 'celular': '1234-5678'} """
