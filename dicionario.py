@@ -3,7 +3,7 @@ agenda = {'nome':'Sarah', 'phone':'1234-5678', 'email':'Sarah@gmail.com', 'idade
 for dicionario in agenda.keys():
     print(agenda[dicionario])
 
-frutas = print(['laranja', 'banana', 'pera'])
+#frutas = print(['laranja', 'banana', 'pera'])
 
 frutas1 = {'maçã' : 3, 'banana' : 5, 'laranja' : 2}
 #cria um dicionário chamado 'frutas' com pares chave-valor iniciais.
